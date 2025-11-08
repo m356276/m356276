@@ -32,7 +32,7 @@ Passionate <b>Cybersec/Linux</b> enthusiast with a little coding experience.
 <hr />
 
 ### `~# cat AboutMe`
-<a href="#"><img align="right" height=290 src="assets/tux.svg"></a>
+<a href="#"><img align="right" height=290 src="tux.svg"></a>
 
 - I am a **student** 
 - Learning C++ and bash.
