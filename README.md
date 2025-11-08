@@ -36,11 +36,12 @@ Passionate <b>Cybersec/Linux</b> enthusiast with a little coding experience.
 
 - I am a **student** 
 - Learning C++ and bash.
+- Learning Linux.
 
 ### Current Works:
 - Participating in CTF's.
 - Working on small C++ projects.
-- Learning Linux.
+
 <hr />
 
 
