@@ -58,14 +58,14 @@ Passionate <b>Cybersec/Linux</b> enthusiast with a little coding experience.
 class Languages {
 public:
     std::string cpp = "C++ ";
-    std::string bash = "Bash ";
+    std::string bash = "python ";
     
 };
 
 int main() {
     Languages lang;
     std::cout << lang.cpp << "\n";
-    std::cout << lang.bash << "\n";
+    std::cout << lang.python << "\n";
     return 0;
 }
 ```
