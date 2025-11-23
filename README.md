@@ -35,7 +35,7 @@ Passionate <b>Cybersec/Linux</b> enthusiast with a little coding experience.
 <a href="#"><img align="right" height=200 src="tux.svg"></a>
 
 - I am a **student** 
-- Learning C++ and python.
+- Learning C++ and Python.
 - Learning Linux.
 
 ### Current Works:
@@ -58,7 +58,7 @@ Passionate <b>Cybersec/Linux</b> enthusiast with a little coding experience.
 class Languages {
 public:
     std::string cpp = "C++ ";
-    std::string python = "python ";
+    std::string python = "Python ";
     
 };
 
