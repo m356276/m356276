@@ -1,4 +1,4 @@
-<h2>Yo, it's M 👋</h2>
+<h2>Hello, I'm M 👋</h2>
 <b>Cybersec/Linux</b> and some <b>coding experience</b>.
 <br /><br />
 
@@ -11,7 +11,7 @@
 ~#
 ~# ls
     
-<a href="#-cat-AboutMe">AboutMe</a>   <a href="#-head-language.py">language.py</a>   <a href="#-sysinfo">sysinfo*</a>
+<a href="#-cat-AboutMe">AboutMe</a>   <a href="#-head-language.py">language.py</a>   
 </pre>
 
 <!-- Social Badges-->
@@ -69,25 +69,6 @@ if __name__ == "__main__":
 
 <br/>
 
-<!-- System Info -->
-### `~# ./sysinfo`
-<table border="1">
-  <tr>
-    <th>Device</th>
-    <th>Operating System</th>
-    <th>Processor</th>
-  </tr>
-  <tr>
-    <td>Device 1</td>
-    <td>Windows 10 Pro</td>
-    <td>AMD Ryzen 5 5500</td>
-  </tr>
-  <tr>
-    <td>VM</td>
-    <td>Kali Linux</td>
-    <td>AMD Ryzen 5 5500</td>
-  </tr>
-    
-</table>
 
-<!-- end -->
+    
+
