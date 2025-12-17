@@ -11,7 +11,7 @@
 ~#
 ~# ls
     
-<a href="#-cat-AboutMe">AboutMe</a>   <a href="#-head-languagecpp">language.cpp</a>   <a href="#-sysinfo">sysinfo*</a>
+<a href="#-cat-AboutMe">AboutMe</a>   <a href="#-head-language.py">language.py</a>   <a href="#-sysinfo">sysinfo*</a>
 </pre>
 
 <!-- Social Badges-->
@@ -47,27 +47,24 @@
 
 
 <!-- Languages -->
-### `~# head language.cpp`
+### `~# head language.py`
 
 
 
-```cpp
-#include <iostream>
-#include <string>
+```py
+class Languages:
+    def __init__(self):
+        self.cpp = "C++ "
+        self.python = "Python "
 
-class Languages {
-public:
-    std::string cpp = "C++ ";
-    std::string python = "Python ";
-    
-};
+def main():
+    lang = Languages()
+    print(lang.cpp)
+    print(lang.python)
 
-int main() {
-    Languages lang;
-    std::cout << lang.cpp << "\n";
-    std::cout << lang.python << "\n";
-    return 0;
-}
+if __name__ == "__main__":
+    main()
+
 ```
 
 <br/>
