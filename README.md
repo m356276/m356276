@@ -1,7 +1,7 @@
 <h2> M </h2>
 <b>Cybersecurity • Linux • Programming</b>
 
-<br /><br />
+
 <p>
 Cybersecurity enthusiast.  
 Focused on <b>Web Security</b>, <b>CTFs</b> and building small tools while learning how things work under the hood.
