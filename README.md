@@ -4,7 +4,7 @@
 
 <p>
 Cybersecurity enthusiast.  
-Focused on <b>Web Security</b>, <b>CTFs</b> and building small tools.
+Focused on <b>Web Security</b>, <b>CTFs</b> and building <b>small tools</b>.
         
 Website: https://mcybersec.netlify.app
 </p>
